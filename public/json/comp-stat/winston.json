@@ -25,6 +25,7 @@
       "remove": 26,
       "add": 48,
       "warn": 79,
+      "addColors": 17,
       "cli": 9,
       "format": 3,
       "log": 84,
@@ -32,7 +33,6 @@
       "json": 2,
       "level": 2,
       "setLevels": 4,
-      "addColors": 17,
       "data": 7,
       "err": 2,
       "clear": 11,
@@ -43,8 +43,8 @@
     },
     "assign": {
       "loggers": 1,
-      "'default'.transports.i": 1,
       "Logger": 3,
+      "'default'.transports.i": 1,
       "transports.File.prototype.log": 2,
       "transports.Console.prototype.log": 1,
       "transports.Http": 1,
@@ -78,6 +78,7 @@
       "remove": 23,
       "add": 35,
       "warn": 28,
+      "addColors": 17,
       "cli": 7,
       "format": 1,
       "log": 17,
@@ -85,7 +86,6 @@
       "json": 1,
       "level": 1,
       "setLevels": 4,
-      "addColors": 17,
       "data": 3,
       "err": 1,
       "clear": 11,
@@ -96,13 +96,14 @@
     },
     "assign": {
       "loggers": 1,
-      "'default'.transports.i": 1,
       "Logger": 3,
+      "'default'.transports.i": 1,
       "transports.File.prototype.log": 2,
       "transports.Console.prototype.log": 1,
       "transports.Http": 1,
       "transports.Console": 2,
       "transports.File": 1
     }
-  }
+  },
+  "total": 308
 }
