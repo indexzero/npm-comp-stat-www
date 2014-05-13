@@ -1,0 +1,23 @@
+{
+  "absolute": {
+    "call": {
+      "createSocket": 10,
+      "on": 4,
+      "call": 1
+    },
+    "assign": {
+      "ns": 1
+    }
+  },
+  "weighted": {
+    "call": {
+      "createSocket": 7,
+      "on": 1,
+      "call": 1
+    },
+    "assign": {
+      "ns": 1
+    }
+  },
+  "total": 9
+}

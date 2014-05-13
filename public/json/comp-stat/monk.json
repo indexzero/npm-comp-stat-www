@@ -1,0 +1,25 @@
+{
+  "absolute": {
+    "assign": {
+      "Collection.prototype.id": 2,
+      "Promise": 1,
+      "Collection": 1
+    },
+    "call": {
+      "apply": 2,
+      "call": 1
+    }
+  },
+  "weighted": {
+    "assign": {
+      "Collection.prototype.id": 1,
+      "Promise": 1,
+      "Collection": 1
+    },
+    "call": {
+      "apply": 1,
+      "call": 1
+    }
+  },
+  "total": 4
+}

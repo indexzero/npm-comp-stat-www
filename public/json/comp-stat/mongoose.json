@@ -1,0 +1,115 @@
+{
+  "absolute": {
+    "error": {
+      "errno": 12,
+      "code": "0EACCESEACCESEACCESEACCES",
+      "path": "0/Users/charlie/Git/indexzero/npm-pipeline/tmp/admin-forms2/admin-forms2-0.0.1/package/.idea/.name/Users/charlie/Git/indexzero/npm-pipeline/tmp/express-mongodb/express-mongodb-0.0.4/package/lib/express-mongodb.js/Users/charlie/Git/indexzero/npm-pipeline/tmp/sync-mongodb-cluster/sync-mongodb-cluster-0.0.19/package/model/base.js/Users/charlie/Git/indexzero/npm-pipeline/tmp/u-mongo/u-mongo-0.0.13/package/lib/client.js",
+      "statusCode": 404
+    },
+    "call": {
+      "connect": 87,
+      "model": 220,
+      "createConnection": 39,
+      "Schema": 18,
+      "set": 3,
+      "disconnect": 11,
+      "createSetConnection": 1,
+      "plugin": 4
+    },
+    "assign": {
+      "Schema": 102,
+      "Model": 4,
+      "Types.ObjectId": 12,
+      "Mongoose": 1,
+      "connection": 10,
+      "Schema.Types.ObjectId": 3,
+      "SchemaTypes.ObjectId": 7,
+      "modelSchemas.ref": 1,
+      "SchemaType": 10,
+      "Schema.Types": 1,
+      "mongo.BSONPure.DBRef": 2,
+      "Document.prototype.toJSON": 3,
+      "Schema.ObjectId": 8,
+      "Types.Array": 3,
+      "ObjectID": 4,
+      "SchemaTypes.Email": 7,
+      "SchemaTypes.Url": 3,
+      "SchemaTypes": 7,
+      "Types.Mixed": 1,
+      "Error": 1,
+      "Schema.Types.Array": 1,
+      "SchemaType.CastError": 1,
+      "mongo.BinaryParser": 2,
+      "mongo.GridStore": 1,
+      "mongo.Grid": 1,
+      "mongo.BSONPure.ObjectID": 2,
+      "connection.db": 3,
+      "models.type": 1,
+      "modelSchemas.": 1
+    },
+    "new": {
+      "Schema": 65,
+      "Schema.Types.ObjectId": 1,
+      "Promise": 24,
+      "Types.ObjectId": 4,
+      "Query": 1
+    }
+  },
+  "weighted": {
+    "error": {
+      "errno": 4,
+      "code": 4,
+      "path": 4,
+      "statusCode": 1
+    },
+    "call": {
+      "connect": 81,
+      "model": 81,
+      "createConnection": 30,
+      "Schema": 8,
+      "set": 3,
+      "disconnect": 8,
+      "createSetConnection": 1,
+      "plugin": 2
+    },
+    "assign": {
+      "Schema": 63,
+      "Model": 3,
+      "Types.ObjectId": 12,
+      "Mongoose": 1,
+      "connection": 10,
+      "Schema.Types.ObjectId": 2,
+      "SchemaTypes.ObjectId": 6,
+      "modelSchemas.ref": 1,
+      "SchemaType": 4,
+      "Schema.Types": 1,
+      "mongo.BSONPure.DBRef": 2,
+      "Document.prototype.toJSON": 1,
+      "Schema.ObjectId": 6,
+      "Types.Array": 3,
+      "ObjectID": 4,
+      "SchemaTypes.Email": 3,
+      "SchemaTypes.Url": 3,
+      "SchemaTypes": 4,
+      "Types.Mixed": 1,
+      "Error": 1,
+      "Schema.Types.Array": 1,
+      "SchemaType.CastError": 1,
+      "mongo.BinaryParser": 2,
+      "mongo.GridStore": 1,
+      "mongo.Grid": 1,
+      "mongo.BSONPure.ObjectID": 1,
+      "connection.db": 1,
+      "models.type": 1,
+      "modelSchemas.": 1
+    },
+    "new": {
+      "Schema": 30,
+      "Schema.Types.ObjectId": 1,
+      "Promise": 3,
+      "Types.ObjectId": 2,
+      "Query": 1
+    }
+  },
+  "total": 287
+}

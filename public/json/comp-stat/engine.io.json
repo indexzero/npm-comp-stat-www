@@ -1,0 +1,35 @@
+{
+  "absolute": {
+    "call": {
+      "attach": 12,
+      "listen": 3,
+      "on": 1
+    },
+    "assign": {
+      "Socket.prototype.sendPacket": 2
+    },
+    "new": {
+      "attach": 2
+    },
+    "error": {
+      "statusCode": 404
+    }
+  },
+  "weighted": {
+    "call": {
+      "attach": 11,
+      "listen": 3,
+      "on": 1
+    },
+    "assign": {
+      "Socket.prototype.sendPacket": 1
+    },
+    "new": {
+      "attach": 1
+    },
+    "error": {
+      "statusCode": 1
+    }
+  },
+  "total": 15
+}

@@ -1,0 +1,15 @@
+{
+  "absolute": {
+    "call": {
+      "inlineContent": 2,
+      "juiceContent": 2
+    }
+  },
+  "weighted": {
+    "call": {
+      "inlineContent": 2,
+      "juiceContent": 2
+    }
+  },
+  "total": 4
+}

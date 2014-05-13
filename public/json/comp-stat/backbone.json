@@ -1,0 +1,63 @@
+{
+  "absolute": {
+    "call": {
+      "ajax": 4,
+      "$": 4,
+      "trigger": 1
+    },
+    "new": {
+      "Db": 1,
+      "Collection": 22,
+      "Router": 2,
+      "$.Deferred": 1
+    },
+    "error": {
+      "errno": 3,
+      "code": "0EACCES",
+      "path": "0/Users/charlie/Git/indexzero/npm-pipeline/tmp/backbone-query/backbone-query-0.1.2/package/js/backbone-query.js",
+      "statusCode": 404
+    },
+    "assign": {
+      "Collection.prototype.set": 1,
+      "Collection.prototype": 1,
+      "Events": 2,
+      "View.prototype._configure": 2,
+      "Model": 2,
+      "View": 1,
+      "Controller": 1,
+      "Collection": 1,
+      "sync": 1
+    }
+  },
+  "weighted": {
+    "call": {
+      "ajax": 1,
+      "$": 3,
+      "trigger": 1
+    },
+    "new": {
+      "Db": 1,
+      "Collection": 10,
+      "Router": 2,
+      "$.Deferred": 1
+    },
+    "error": {
+      "errno": 1,
+      "code": 1,
+      "path": 1,
+      "statusCode": 1
+    },
+    "assign": {
+      "Collection.prototype.set": 1,
+      "Collection.prototype": 1,
+      "Events": 1,
+      "View.prototype._configure": 1,
+      "Model": 2,
+      "View": 1,
+      "Controller": 1,
+      "Collection": 1,
+      "sync": 1
+    }
+  },
+  "total": 26
+}
