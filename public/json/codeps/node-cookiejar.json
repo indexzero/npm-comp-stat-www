@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "lattice": {
+      "total": {
+        "subset": 0,
+        "absolute": 0
+      }
+    },
+    "names": [],
+    "matrix": [],
+    "values": []
+  },
+  "devDependencies": {
+    "lattice": {
+      "total": {
+        "subset": 0,
+        "absolute": 0
+      }
+    },
+    "names": [],
+    "matrix": [],
+    "values": []
+  },
+  "optionalDependencies": {
+    "lattice": {
+      "total": {
+        "subset": 0,
+        "absolute": 0
+      }
+    },
+    "names": [],
+    "matrix": [],
+    "values": []
+  },
+  "peerDependencies": {
+    "lattice": {
+      "total": {
+        "subset": 0,
+        "absolute": 0
+      }
+    },
+    "names": [],
+    "matrix": [],
+    "values": []
+  }
+}

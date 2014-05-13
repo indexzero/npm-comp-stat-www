@@ -1,0 +1,136 @@
+body {
+  margin: 0 1em;
+  padding: 0;
+  font-weight: 300;
+  font-size: 12px;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+}
+
+svg {
+  overflow: visible;
+  overflow-x: visible;
+  overflow-y: visible;
+}
+
+h1 {
+  clear: both;
+  margin: 0.6em 0 0.1em;
+  padding-bottom: 1.25em;
+  font-weight: 300;
+  font-size: 4em;
+}
+
+h1 span {
+  font-weight: 800;
+}
+
+h3 {
+  margin-top: 30px;
+  text-align: center;
+  font-size: 2em;
+}
+
+h4 {
+  text-align: center;
+  font-size: 1.5em;
+}
+
+small {
+  float: right;
+  margin-top: 10px;
+  color: #999;
+  font-style: italic;
+  font-size: 1.1em;
+}
+
+small a {
+  text-decoration: underline;
+  font-style: italic;
+}
+
+input, textarea, select, button {
+  padding: 8px 10px;
+  outline: none;
+  border: 1px solid #ccc;
+  -webkit-border-radius: 5;
+  -moz-border-radius: 5;
+  border-radius: 5px;
+  font: inherit;
+}
+
+button {
+  border: none;
+  background: #76c8fe;
+  box-shadow: none;
+  color: #fff;
+  text-decoration: none;
+}
+
+button:hover {
+  background: #3cb0fd;
+  text-decoration: none;
+}
+
+input:focus, textarea:focus {
+  border: 1px solid rgba(81, 203, 238, 0.5);
+  box-shadow: 0 0 5px rgba(81, 203, 238, 0.1);
+}
+
+select {
+  width: 60px;
+  background: transparent url('arrow.png') no-repeat;
+  background-position: 38px;
+  background-size: 13px;
+  -webkit-appearance: none;
+}
+
+#codependencies article {
+  float: left;
+  width: 50%;
+}
+
+#tooltip {
+  position: absolute;
+  z-index: 10;
+  visibility: hidden;
+  padding: 5px;
+  border: 1px solid lightgrey;
+  border-radius: 5px;
+  background: #333;
+  color: white;
+  white-space: nowrap;
+  opacity: .9;
+  pointer-events: none;
+}
+
+#tooltip td {
+  padding: 0 5px;
+}
+
+#circle circle {
+  pointer-events: all;
+  fill: none;
+}
+
+path.group {
+  fill-opacity: .8;
+}
+
+path.chord {
+  fill-opacity: .8;
+  stroke: #000;
+  stroke-width: .4px;
+}
+
+#circle:hover path.fade {
+  fill-opacity: .1;
+  stroke-opacity: 0;
+  /*display: none;*/
+}
+
+text {
+  font-weight: 300;
+  font-size: 1.2em;
+  stroke: none;
+  fill: #000;
+}

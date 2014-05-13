@@ -1,0 +1,18 @@
+{
+  "name": "comp-stat-www",
+  "version": "1.0.0",
+  "subdomain": "codeps",
+  "description": "The web server portion of com(stat)^2",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bin/server"
+  },
+  "author": "Charlie Robbins <charlie.robbins@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "http-server": "^0.6.1"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}

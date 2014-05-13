@@ -1,0 +1,3310 @@
+{
+  "ace-log": {
+    "calls": {}
+  },
+  "ab-tool": {
+    "calls": {}
+  },
+  "activepush": {
+    "calls": {}
+  },
+  "2lemetry": {
+    "calls": {}
+  },
+  "aggregate": {
+    "calls": {}
+  },
+  "actionhero": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/actionhero/actionhero-8.0.8/package/lib"
+    }
+  },
+  "aerobatic-yoke": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/aerobatic-yoke/aerobatic-yoke-0.2.3/package/lib"
+    }
+  },
+  "albot": {
+    "calls": {}
+  },
+  "alpaca": {
+    "calls": {}
+  },
+  "amqp-sqs": {
+    "calls": {
+      "error": 4
+    }
+  },
+  "america-depressed": {
+    "calls": {}
+  },
+  "another-circuit-breaker": {
+    "calls": {}
+  },
+  "aonx": {
+    "calls": {
+      "error": 2,
+      "info": 1
+    }
+  },
+  "apk-updater": {
+    "calls": {
+      "info": 1,
+      "debug": 1
+    }
+  },
+  "alamid": {
+    "calls": {}
+  },
+  "appium-instruments": {
+    "calls": {}
+  },
+  "apptrack": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/apptrack/apptrack-0.0.1/package/lib"
+    }
+  },
+  "appium-uiautomator": {
+    "calls": {}
+  },
+  "appway": {
+    "calls": {}
+  },
+  "apx-winston": {
+    "calls": {}
+  },
+  "architect-logger": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/architect-logger/architect-logger-0.0.1/package/lib"
+    }
+  },
+  "archon": {
+    "calls": {
+      "verbose": 16,
+      "error": 15,
+      "debug": 3,
+      "remove": 1,
+      "add": 1,
+      "info": 2
+    }
+  },
+  "arthus": {
+    "calls": {}
+  },
+  "asset-server": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/asset-server/asset-server-0.1.58/package/lib"
+    }
+  },
+  "asthmatic": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/asthmatic/asthmatic-0.0.1/package/lib"
+    }
+  },
+  "async-logging": {
+    "calls": {}
+  },
+  "agentvsagent": {
+    "calls": {}
+  },
+  "audiospritler": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/audiospritler/audiospritler-0.1.3/package/lib"
+    }
+  },
+  "audiosprite": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/audiosprite/audiosprite-0.3.0/package/lib"
+    }
+  },
+  "autoauth": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/autoauth/autoauth-0.1.1/package/lib"
+    }
+  },
+  "autocmdr": {
+    "calls": {}
+  },
+  "autoqueue": {
+    "calls": {
+      "info": 12,
+      "warn": 4
+    }
+  },
+  "aw-cache-heater": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/aw-cache-heater/aw-cache-heater-1.0.4/package/lib"
+    }
+  },
+  "aw-cache-validator": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/aw-cache-validator/aw-cache-validator-1.0.3/package/lib"
+    }
+  },
+  "asq": {
+    "calls": {}
+  },
+  "aws-setup": {
+    "calls": {}
+  },
+  "awsm-o": {
+    "calls": {}
+  },
+  "ayecm-client": {
+    "calls": {}
+  },
+  "bancroft": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/bancroft/bancroft-0.0.11/package/lib"
+    }
+  },
+  "azure-cli": {
+    "calls": {
+      "cli": 1,
+      "format": 3,
+      "log": 5,
+      "silly": 2,
+      "json": 2
+    }
+  },
+  "bakery-commons": {
+    "calls": {}
+  },
+  "bean.http": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/bean.http/bean.http-0.0.8/package/lib"
+    }
+  },
+  "bashpack": {
+    "calls": {}
+  },
+  "beanpoll-http": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/beanpoll-http/beanpoll-http-0.0.10/package/lib"
+    }
+  },
+  "beyo": {
+    "calls": {}
+  },
+  "bi-appsrvr": {
+    "calls": {}
+  },
+  "bigml": {
+    "calls": {}
+  },
+  "binary-cookies": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/binary-cookies/binary-cookies-0.1.1/package/lib"
+    }
+  },
+  "binford-slf4j-adapter": {
+    "calls": {}
+  },
+  "bip": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/bip/bip-0.0.2/package/lib"
+    }
+  },
+  "bitcoin-explorer": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/bitcoin-explorer/bitcoin-explorer-0.2.1/package/lib"
+    }
+  },
+  "bem": {
+    "calls": {
+      "level": 2,
+      "remove": 1,
+      "add": 1,
+      "setLevels": 1
+    }
+  },
+  "bitcoinjs": {
+    "calls": {
+      "addColors": 1
+    }
+  },
+  "bitcoin-p2p": {
+    "calls": {
+      "addColors": 1
+    }
+  },
+  "bipio": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/bipio/bipio-0.2.16/package/lib"
+    }
+  },
+  "blunderbuss": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/blunderbuss/blunderbuss-0.1.2/package/lib"
+    }
+  },
+  "blad": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/blad/blad-3.0.8/package/lib"
+    }
+  },
+  "bloomapi": {
+    "calls": {}
+  },
+  "bobby": {
+    "calls": {
+      "addColors": 1
+    }
+  },
+  "bonescript": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/bonescript/bonescript-0.2.4/package/lib"
+    }
+  },
+  "bonvoyage": {
+    "calls": {
+      "debug": 3,
+      "log": 1,
+      "warn": 2,
+      "info": 3
+    }
+  },
+  "boombox-audiosprite": {
+    "calls": {}
+  },
+  "bowl": {
+    "calls": {}
+  },
+  "bratwurst": {
+    "calls": {
+      "info": 19,
+      "error": 7,
+      "debug": 19
+    }
+  },
+  "broadway": {
+    "calls": {}
+  },
+  "browserid-certifier": {
+    "calls": {
+      "error": 5,
+      "info": 1,
+      "debug": 1,
+      "remove": 1,
+      "add": 1
+    }
+  },
+  "build": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/build/build-0.1.4/package/lib"
+    }
+  },
+  "bunsen": {
+    "calls": {}
+  },
+  "buildy": {
+    "calls": {}
+  },
+  "bpmn": {
+    "calls": {}
+  },
+  "burnhub": {
+    "calls": {
+      "info": 3,
+      "data": 2,
+      "cli": 1
+    }
+  },
+  "cabrel-hapi-session": {
+    "calls": {}
+  },
+  "busybee": {
+    "calls": {}
+  },
+  "cabinet": {
+    "calls": {
+      "debug": 6,
+      "error": 1
+    }
+  },
+  "camelot": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/camelot/camelot-0.0.4/package/lib"
+    }
+  },
+  "caminio": {
+    "calls": {}
+  },
+  "cargoship-logstash": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/cargoship-logstash/cargoship-logstash-0.0.5/package/lib"
+    }
+  },
+  "capre": {
+    "calls": {
+      "verbose": 2
+    }
+  },
+  "appium-adb": {
+    "calls": {}
+  },
+  "cavia": {
+    "calls": {}
+  },
+  "ccow.contextmanager": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/ccow.contextmanager/ccow.contextmanager-0.0.25/package/lib"
+    }
+  },
+  "chard": {
+    "calls": {}
+  },
+  "ciao": {
+    "calls": {}
+  },
+  "cas_validate": {
+    "calls": {}
+  },
+  "cl-rpc": {
+    "calls": {}
+  },
+  "clb-modelloader": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/clb-modelloader/clb-modelloader-0.3.0/package/lib"
+    }
+  },
+  "cli-trader": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/cli-trader/cli-trader-0.0.2/package/lib"
+    }
+  },
+  "cliff": {
+    "calls": {}
+  },
+  "climax": {
+    "calls": {
+      "error": 5,
+      "info": 7
+    }
+  },
+  "clip": {
+    "calls": {}
+  },
+  "cloudd": {
+    "calls": {
+      "info": 8,
+      "error": 3,
+      "debug": 2
+    }
+  },
+  "cloudinit-cli": {
+    "calls": {}
+  },
+  "co-logger": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/co-logger/co-logger-0.0.7/package/lib"
+    }
+  },
+  "comet-agent": {
+    "calls": {}
+  },
+  "componentjs-tracing": {
+    "calls": {}
+  },
+  "codo": {
+    "calls": {}
+  },
+  "composer-server": {
+    "calls": {}
+  },
+  "compoxure": {
+    "calls": {
+      "remove": 2,
+      "add": 3,
+      "info": 1,
+      "warn": 1,
+      "error": 1
+    }
+  },
+  "conjur-api": {
+    "calls": {}
+  },
+  "connection_pool": {
+    "calls": {
+      "error": 1,
+      "debug": 3
+    }
+  },
+  "contegix-logger": {
+    "calls": {
+      "addColors": 1
+    }
+  },
+  "connfu": {
+    "calls": {}
+  },
+  "couch-persona": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/couch-persona/couch-persona-0.0.6/package/lib"
+    }
+  },
+  "contented": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/contented/contented-0.2.0/package/lib"
+    }
+  },
+  "craigslist-listings": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/craigslist-listings/craigslist-listings-0.1.0/package/lib"
+    }
+  },
+  "crawlable": {
+    "calls": {}
+  },
+  "cozy-controller": {
+    "calls": {}
+  },
+  "crawlable-solidify": {
+    "calls": {}
+  },
+  "crawlerjs": {
+    "calls": {}
+  },
+  "damka": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/damka/damka-2.3.3/package/lib"
+    }
+  },
+  "dashing-js": {
+    "calls": {}
+  },
+  "dbg": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/dbg/dbg-0.1.2/package/lib"
+    }
+  },
+  "currentcms": {
+    "calls": {}
+  },
+  "debugcallback": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/debugcallback/debugcallback-1.0.2/package/lib"
+    }
+  },
+  "defcon": {
+    "calls": {}
+  },
+  "defcon-rest-gateway": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/defcon-rest-gateway/defcon-rest-gateway-0.2.1/package/lib"
+    }
+  },
+  "deploy-bot": {
+    "calls": {}
+  },
+  "derby-log": {
+    "calls": {}
+  },
+  "descil-mturk": {
+    "calls": {
+      "error": 8,
+      "info": 15
+    }
+  },
+  "dgeni": {
+    "calls": {
+      "info": 6,
+      "cli": 2,
+      "debug": 6,
+      "error": 2
+    }
+  },
+  "dgeni-packages": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/dgeni-packages/dgeni-packages-0.9.2/package/lib"
+    }
+  },
+  "discover-client": {
+    "calls": {
+      "log": 6
+    }
+  },
+  "dmon": {
+    "calls": {}
+  },
+  "dnode-spider": {
+    "calls": {}
+  },
+  "dnschain": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/dnschain/dnschain-0.2.2/package/lib"
+    }
+  },
+  "dock.js": {
+    "calls": {}
+  },
+  "docker-discover": {
+    "calls": {
+      "log": 6,
+      "info": 3,
+      "error": 9,
+      "debug": 5,
+      "warn": 9
+    }
+  },
+  "docpad-plugin-winston": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/docpad-plugin-winston/docpad-plugin-winston-2.0.0/package/lib"
+    }
+  },
+  "docparse-logger": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/docparse-logger/docparse-logger-1.0.1/package/lib"
+    }
+  },
+  "doushio": {
+    "calls": {}
+  },
+  "dbrans-testem": {
+    "calls": {
+      "info": 11,
+      "error": 6,
+      "warn": 1
+    }
+  },
+  "calipso": {
+    "calls": {}
+  },
+  "dpd-mincer": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/dpd-mincer/dpd-mincer-0.0.5/package/lib"
+    }
+  },
+  "download.jqueryui.com": {
+    "calls": {}
+  },
+  "dredd": {
+    "calls": {}
+  },
+  "dri": {
+    "calls": {
+      "log": 25
+    }
+  },
+  "dri-api": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/dri-api/dri-api-0.0.4/package/lib"
+    }
+  },
+  "dris-workflows": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/dris-workflows/dris-workflows-0.0.6/package/lib"
+    }
+  },
+  "dynamic-reverse-proxy-client": {
+    "calls": {}
+  },
+  "dynamic-module-loader": {
+    "calls": {}
+  },
+  "dry-underscore": {
+    "calls": {}
+  },
+  "easy-i18n": {
+    "calls": {}
+  },
+  "easyrobot": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/easyrobot/easyrobot-0.1.1/package/lib"
+    }
+  },
+  "easyrep": {
+    "calls": {}
+  },
+  "easysocket": {
+    "calls": {}
+  },
+  "edgegrid-node": {
+    "calls": {}
+  },
+  "catjs": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/catjs/catjs-0.1.5/package/lib"
+    }
+  },
+  "ejdb-session-store": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/ejdb-session-store/ejdb-session-store-0.1.0/package/lib"
+    }
+  },
+  "elasticio-utils": {
+    "calls": {}
+  },
+  "ejabberd": {
+    "calls": {}
+  },
+  "elasticmongoose": {
+    "calls": {}
+  },
+  "elastic-transfer": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/elastic-transfer/elastic-transfer-0.3.94/package/lib"
+    }
+  },
+  "emysql": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/emysql/emysql-0.0.2/package/lib"
+    }
+  },
+  "entree": {
+    "calls": {}
+  },
+  "errorboard.js": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/errorboard.js/errorboard.js-0.0.7-b/package/lib"
+    }
+  },
+  "esarchive": {
+    "calls": {}
+  },
+  "embersmith": {
+    "calls": {}
+  },
+  "ethereum": {
+    "calls": {}
+  },
+  "evented-forever": {
+    "calls": {}
+  },
+  "evented.io": {
+    "calls": {}
+  },
+  "evo-elements": {
+    "calls": {}
+  },
+  "express-autoroute": {
+    "calls": {}
+  },
+  "express-seed": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/express-seed/express-seed-0.1.2/package/lib"
+    }
+  },
+  "express-train.io": {
+    "calls": {}
+  },
+  "elipsis": {
+    "calls": {
+      "add": 1,
+      "remove": 1,
+      "debug": 1,
+      "info": 1,
+      "warn": 1,
+      "error": 1
+    }
+  },
+  "express-twitter": {
+    "calls": {}
+  },
+  "express-uglify": {
+    "calls": {
+      "log": 4
+    }
+  },
+  "express-winston": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/express-winston/express-winston-0.2.6/package/lib"
+    }
+  },
+  "fanout": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/fanout/fanout-0.3.3/package/lib"
+    }
+  },
+  "f7u12rl": {
+    "calls": {}
+  },
+  "fedora": {
+    "calls": {
+      "log": 11
+    }
+  },
+  "feedtools": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/feedtools/feedtools-0.0.2/package/lib"
+    }
+  },
+  "ferrum": {
+    "calls": {}
+  },
+  "fh-api": {
+    "calls": {}
+  },
+  "fh-api-alpha": {
+    "calls": {}
+  },
+  "fh-api-beta": {
+    "calls": {}
+  },
+  "fh-api-test": {
+    "calls": {}
+  },
+  "fh-mbaas-api": {
+    "calls": {}
+  },
+  "fh-nodeapp": {
+    "calls": {}
+  },
+  "fh-nodeapp-alpha": {
+    "calls": {}
+  },
+  "fh-nodeapp-beta": {
+    "calls": {}
+  },
+  "fh-nodeapp-test": {
+    "calls": {}
+  },
+  "filefog": {
+    "calls": {}
+  },
+  "firefly": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/firefly/firefly-0.0.6/package/lib"
+    }
+  },
+  "firegem-rest": {
+    "calls": {
+      "info": 7,
+      "error": 1,
+      "warn": 1
+    }
+  },
+  "flashfreeze": {
+    "calls": {
+      "remove": 1,
+      "add": 1,
+      "info": 3,
+      "error": 6
+    }
+  },
+  "flatiron-config-util": {
+    "calls": {}
+  },
+  "flavordb": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/flavordb/flavordb-0.0.1/package/lib"
+    }
+  },
+  "flickr-sync": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/flickr-sync/flickr-sync-1.0.5/package/lib"
+    }
+  },
+  "flipflop": {
+    "calls": {
+      "cli": 1
+    }
+  },
+  "flotilla": {
+    "calls": {}
+  },
+  "force-field": {
+    "calls": {}
+  },
+  "forever": {
+    "calls": {}
+  },
+  "forever-binom": {
+    "calls": {}
+  },
+  "forever-mac": {
+    "calls": {}
+  },
+  "forever-win": {
+    "calls": {}
+  },
+  "forewoman": {
+    "calls": {}
+  },
+  "forge.js": {
+    "calls": {}
+  },
+  "foxjs": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/foxjs/foxjs-0.0.35/package/lib"
+    }
+  },
+  "freddy": {
+    "calls": {}
+  },
+  "frontline": {
+    "calls": {
+      "info": 10,
+      "error": 4
+    }
+  },
+  "fs-change": {
+    "calls": {
+      "info": 4,
+      "error": 3,
+      "debug": 7
+    }
+  },
+  "fsapi": {
+    "calls": {}
+  },
+  "fsjson": {
+    "calls": {
+      "error": 5
+    }
+  },
+  "g33k-packer": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/g33k-packer/g33k-packer-2.0.6/package/lib"
+    }
+  },
+  "gardener": {
+    "calls": {}
+  },
+  "gardr-validator-web": {
+    "calls": {
+      "add": 1,
+      "remove": 1
+    }
+  },
+  "garret": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/garret/garret-0.0.3-7/package/lib"
+    }
+  },
+  "gas-organize": {
+    "calls": {
+      "error": 3,
+      "info": 4
+    }
+  },
+  "gat": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/gat/gat-0.0.11/package/lib"
+    }
+  },
+  "gcs": {
+    "calls": {}
+  },
+  "gearmanode": {
+    "calls": {
+      "log": 1
+    }
+  },
+  "gebo-server": {
+    "calls": {}
+  },
+  "geena": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/geena/geena-0.0.8-p9/package/lib"
+    }
+  },
+  "git-rest-api": {
+    "calls": {}
+  },
+  "git-script": {
+    "calls": {
+      "log": 1
+    }
+  },
+  "gitdeploy": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/gitdeploy/gitdeploy-1.0.6/package/lib"
+    }
+  },
+  "glp": {
+    "calls": {}
+  },
+  "forumjs": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/forumjs/forumjs-0.1.1/package/lib"
+    }
+  },
+  "gmond": {
+    "calls": {}
+  },
+  "gocoin": {
+    "calls": {}
+  },
+  "gocoin-extended": {
+    "calls": {}
+  },
+  "gong": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/gong/gong-0.0.5/package/lib"
+    }
+  },
+  "appium": {
+    "calls": {
+      "addColors": 1
+    }
+  },
+  "goo": {
+    "calls": {}
+  },
+  "google-oauth-serviceaccount": {
+    "calls": {
+      "addColors": 1
+    }
+  },
+  "gozy": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/gozy/gozy-0.0.7/package/lib"
+    }
+  },
+  "graojs": {
+    "calls": {}
+  },
+  "granite": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/granite/granite-0.9.6/package/lib"
+    }
+  },
+  "greppy": {
+    "calls": {}
+  },
+  "grunt-blitz": {
+    "calls": {}
+  },
+  "grunt-winston": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/grunt-winston/grunt-winston-0.2.0/package/lib"
+    }
+  },
+  "guardian": {
+    "calls": {}
+  },
+  "haibu": {
+    "calls": {}
+  },
+  "haibu-other": {
+    "calls": {}
+  },
+  "haibu-repo": {
+    "calls": {}
+  },
+  "guerrero": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/guerrero/guerrero-0.0.1/package/lib"
+    }
+  },
+  "handy-node": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/handy-node/handy-node-0.0.2/package/lib"
+    }
+  },
+  "hapi.assetsupload": {
+    "calls": {}
+  },
+  "hat.js": {
+    "calls": {}
+  },
+  "hbond": {
+    "calls": {
+      "error": 5,
+      "verbose": 3,
+      "info": 4,
+      "warn": 2
+    }
+  },
+  "hg": {
+    "calls": {}
+  },
+  "hnb_script": {
+    "calls": {}
+  },
+  "hoganyam": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/hoganyam/hoganyam-0.1.0/package/lib"
+    }
+  },
+  "hook.io": {
+    "calls": {}
+  },
+  "hook.io-logger": {
+    "calls": {}
+  },
+  "hornet": {
+    "calls": {
+      "info": 4
+    }
+  },
+  "http-monster": {
+    "calls": {
+      "info": 1,
+      "log": 1
+    }
+  },
+  "http-retry": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/http-retry/http-retry-0.1.0/package/lib"
+    }
+  },
+  "http-stale-cache-proxy": {
+    "calls": {}
+  },
+  "http-tunnel": {
+    "calls": {}
+  },
+  "hubiquitus-node": {
+    "calls": {
+      "warn": 4,
+      "info": 4,
+      "debug": 21,
+      "error": 8,
+      "setLevels": 1,
+      "add": 2,
+      "remove": 1
+    }
+  },
+  "hummingbird-core": {
+    "calls": {
+      "info": 4,
+      "error": 1
+    }
+  },
+  "hummingbird-facebook": {
+    "calls": {
+      "warn": 3,
+      "info": 2
+    }
+  },
+  "glutenfree": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/glutenfree/glutenfree-0.2.1/package/lib"
+    }
+  },
+  "hook.io-fork": {
+    "calls": {}
+  },
+  "hummingbird-service": {
+    "calls": {
+      "info": 5
+    }
+  },
+  "hummingbird-instagram": {
+    "calls": {
+      "warn": 3,
+      "info": 3
+    }
+  },
+  "hummingbird-twitter": {
+    "calls": {
+      "warn": 3
+    }
+  },
+  "hummingbird-wordpress": {
+    "calls": {
+      "warn": 3
+    }
+  },
+  "hurt-locker": {
+    "calls": {}
+  },
+  "ibooserver": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/ibooserver/ibooserver-0.0.4/package/lib"
+    }
+  },
+  "hyde": {
+    "calls": {}
+  },
+  "icarus": {
+    "calls": {}
+  },
+  "igloo": {
+    "calls": {}
+  },
+  "imagine": {
+    "calls": {
+      "debug": 4,
+      "info": 1,
+      "warn": 1,
+      "error": 2
+    }
+  },
+  "ideamark": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/ideamark/ideamark-0.3.0/package/lib"
+    }
+  },
+  "imagine-cloudfiles": {
+    "calls": {
+      "error": 7,
+      "debug": 4,
+      "info": 2
+    }
+  },
+  "imagine-s3": {
+    "calls": {
+      "error": 5,
+      "debug": 4
+    }
+  },
+  "imapnotify": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/imapnotify/imapnotify-0.0.1/package/lib"
+    }
+  },
+  "imagine-file": {
+    "calls": {
+      "error": 1
+    }
+  },
+  "infantry": {
+    "calls": {}
+  },
+  "inform-daemon": {
+    "calls": {}
+  },
+  "instrumented-proxy": {
+    "calls": {
+      "remove": 1,
+      "info": 2,
+      "verbose": 2
+    }
+  },
+  "ios-ota-maintainer": {
+    "calls": {}
+  },
+  "ios-ota": {
+    "calls": {}
+  },
+  "iotkit-agent": {
+    "calls": {}
+  },
+  "iotkit-client": {
+    "calls": {}
+  },
+  "ipc": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/ipc/ipc-0.0.1/package/lib"
+    }
+  },
+  "irccd": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/irccd/irccd-0.0.1/package/lib"
+    }
+  },
+  "iron-scheduler": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/iron-scheduler/iron-scheduler-0.0.2/package/lib"
+    }
+  },
+  "ironhorse": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/ironhorse/ironhorse-0.0.9/package/lib"
+    }
+  },
+  "ircdjs": {
+    "calls": {
+      "error": 6,
+      "info": 5,
+      "log": 1
+    }
+  },
+  "jishaku-torrent-storage": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/jishaku-torrent-storage/jishaku-torrent-storage-0.0.1/package/lib"
+    }
+  },
+  "jazzy": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/jazzy/jazzy-0.3.18/package/lib"
+    }
+  },
+  "jellyjs": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/jellyjs/jellyjs-0.0.12/package/lib"
+    }
+  },
+  "jlog": {
+    "calls": {}
+  },
+  "jolosrv": {
+    "calls": {}
+  },
+  "joola.io.auth": {
+    "calls": {}
+  },
+  "joola.io.beacon": {
+    "calls": {}
+  },
+  "joola.io.config": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/joola.io.config/joola.io.config-3.2.10/package/lib"
+    }
+  },
+  "joola.io.logger": {
+    "calls": {}
+  },
+  "joola.io.engine": {
+    "calls": {}
+  },
+  "joola.io.status": {
+    "calls": {}
+  },
+  "journald": {
+    "calls": {}
+  },
+  "js.js": {
+    "calls": {}
+  },
+  "jscpd": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/jscpd/jscpd-0.3.2/package/lib"
+    }
+  },
+  "json-ext": {
+    "calls": {}
+  },
+  "jsfail": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/jsfail/jsfail-0.0.2/package/lib"
+    }
+  },
+  "kaffee-cli": {
+    "calls": {}
+  },
+  "kamituel-logger": {
+    "calls": {
+      "remove": 1,
+      "add": 1,
+      "info": 1
+    }
+  },
+  "kapp": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/kapp/kapp-0.3.0/package/lib"
+    }
+  },
+  "joola.io.analytics": {
+    "calls": {}
+  },
+  "katana": {
+    "calls": {}
+  },
+  "katsu": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/katsu/katsu-0.1.0/package/lib"
+    }
+  },
+  "ketchup": {
+    "calls": {}
+  },
+  "ken": {
+    "calls": {}
+  },
+  "kido-agent": {
+    "calls": {
+      "info": 36,
+      "debug": 17,
+      "verbose": 9,
+      "warn": 7,
+      "error": 4,
+      "clear": 1,
+      "add": 2
+    }
+  },
+  "koalesce": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/koalesce/koalesce-0.0.17/package/lib"
+    }
+  },
+  "koast": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/koast/koast-0.1.10/package/lib"
+    }
+  },
+  "konstruct": {
+    "calls": {}
+  },
+  "krowlr": {
+    "calls": {}
+  },
+  "krunch": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/krunch/krunch-0.1.2/package/lib"
+    }
+  },
+  "kuku": {
+    "calls": {}
+  },
+  "evilportscanner": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/evilportscanner/evilportscanner-0.0.1/package/lib"
+    }
+  },
+  "lamassu-atm-protocol": {
+    "calls": {}
+  },
+  "lamassu-bitstamp": {
+    "calls": {}
+  },
+  "landmark": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/landmark/landmark-0.0.2/package/lib"
+    }
+  },
+  "layer-cake": {
+    "calls": {}
+  },
+  "leo-winston": {
+    "calls": {}
+  },
+  "launchpad": {
+    "calls": {}
+  },
+  "less-watch": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/less-watch/less-watch-0.1.0/package/lib"
+    }
+  },
+  "lessyam": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/lessyam/lessyam-0.0.2/package/lib"
+    }
+  },
+  "let": {
+    "calls": {}
+  },
+  "libgrabber": {
+    "calls": {}
+  },
+  "levitate": {
+    "calls": {
+      "log": 2
+    }
+  },
+  "lincoln": {
+    "calls": {}
+  },
+  "linkwit": {
+    "calls": {}
+  },
+  "evilscan": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/evilscan/evilscan-0.0.9/package/lib"
+    }
+  },
+  "linz": {
+    "calls": {}
+  },
+  "log-colors": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/log-colors/log-colors-1.0.0/package/lib"
+    }
+  },
+  "liquid-ffmpeg": {
+    "calls": {}
+  },
+  "logginator": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/logginator/logginator-1.1.8/package/lib"
+    }
+  },
+  "log.io-morz": {
+    "calls": {}
+  },
+  "log.io": {
+    "calls": {}
+  },
+  "loggly-console-logger": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/loggly-console-logger/loggly-console-logger-2.0.1/package/lib"
+    }
+  },
+  "logsmith": {
+    "calls": {}
+  },
+  "lottery": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/lottery/lottery-0.0.1/package/lib"
+    }
+  },
+  "madmin": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/madmin/madmin-0.3.0/package/lib"
+    }
+  },
+  "mailin": {
+    "calls": {}
+  },
+  "maksunappi": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/maksunappi/maksunappi-1.0.0/package/lib"
+    }
+  },
+  "mammock": {
+    "calls": {}
+  },
+  "masm-log": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/masm-log/masm-log-0.0.4/package/lib"
+    }
+  },
+  "mavlink_ardupilotmega_v1.0": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/mavlink_ardupilotmega_v1.0/mavlink_ardupilotmega_v1.0-0.0.2/package/lib"
+    }
+  },
+  "mazagran": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/mazagran/mazagran-0.0.4/package/lib"
+    }
+  },
+  "mdbp": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/mdbp/mdbp-0.0.11/package/lib"
+    }
+  },
+  "jsreport": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/jsreport/jsreport-0.1.2/package/lib"
+    }
+  },
+  "meat": {
+    "calls": {}
+  },
+  "mechhome": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/mechhome/mechhome-0.1.3/package/lib"
+    }
+  },
+  "medusa": {
+    "calls": {
+      "add": 1,
+      "remove": 1,
+      "error": 1,
+      "info": 4
+    }
+  },
+  "melted-node": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/melted-node/melted-node-0.0.11/package/lib"
+    }
+  },
+  "memory-session-store": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/memory-session-store/memory-session-store-0.1.0/package/lib"
+    }
+  },
+  "mesh-winston": {
+    "calls": {}
+  },
+  "members-area": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/members-area/members-area-0.3.2/package/lib"
+    }
+  },
+  "meteor-deployment-manager": {
+    "calls": {}
+  },
+  "mergeatron": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/mergeatron/mergeatron-1.0.3/package/lib"
+    }
+  },
+  "migratedb": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/migratedb/migratedb-0.0.0/package/lib"
+    }
+  },
+  "microscratch": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/microscratch/microscratch-0.0.1/package/lib"
+    }
+  },
+  "mixdown-boilerplate": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/mixdown-boilerplate/mixdown-boilerplate-0.1.0/package/lib"
+    }
+  },
+  "miner": {
+    "calls": {}
+  },
+  "miniweb": {
+    "calls": {}
+  },
+  "mldb": {
+    "calls": {}
+  },
+  "modreal-logger": {
+    "calls": {}
+  },
+  "mljs": {
+    "calls": {}
+  },
+  "mongo-json-query": {
+    "calls": {}
+  },
+  "mole-server": {
+    "calls": {}
+  },
+  "mole": {
+    "calls": {}
+  },
+  "mongodb-api": {
+    "calls": {}
+  },
+  "mongolfier": {
+    "calls": {}
+  },
+  "mongoose-plugins": {
+    "calls": {
+      "debug": 12,
+      "info": 5,
+      "error": 7
+    }
+  },
+  "mongoose-rest-in-flatiron": {
+    "calls": {}
+  },
+  "monkey-server": {
+    "calls": {}
+  },
+  "mongoose-admin": {
+    "calls": {}
+  },
+  "monostack": {
+    "calls": {}
+  },
+  "mordac": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/mordac/mordac-1.0.0-beta.1/package/lib"
+    }
+  },
+  "moonridge": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/moonridge/moonridge-0.4.14/package/lib"
+    }
+  },
+  "moonshine-js": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/moonshine-js/moonshine-js-0.0.6/package/lib"
+    }
+  },
+  "mqtt-bridge": {
+    "calls": {}
+  },
+  "mountebank": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/mountebank/mountebank-1.1.10/package/lib"
+    }
+  },
+  "mssql-api": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/mssql-api/mssql-api-0.0.9/package/lib"
+    }
+  },
+  "mudsmith": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/mudsmith/mudsmith-0.0.3/package/lib"
+    }
+  },
+  "mturk": {
+    "calls": {}
+  },
+  "my-papertrail-logger": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/my-papertrail-logger/my-papertrail-logger-0.0.0/package/lib"
+    }
+  },
+  "movement": {
+    "calls": {}
+  },
+  "myriad-server": {
+    "calls": {}
+  },
+  "mysql-api": {
+    "calls": {}
+  },
+  "mystack-restapi": {
+    "calls": {}
+  },
+  "nabu": {
+    "calls": {}
+  },
+  "nebulog": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/nebulog/nebulog-0.0.0/package/lib"
+    }
+  },
+  "nell": {
+    "calls": {}
+  },
+  "nemesis": {
+    "calls": {}
+  },
+  "neo4j-api": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/neo4j-api/neo4j-api-0.0.3/package/lib"
+    }
+  },
+  "netty": {
+    "calls": {}
+  },
+  "nm-logger": {
+    "calls": {}
+  },
+  "nmc2couch": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/nmc2couch/nmc2couch-0.2.1/package/lib"
+    }
+  },
+  "nockpoint": {
+    "calls": {}
+  },
+  "node-barefoot": {
+    "calls": {
+      "log": 7
+    }
+  },
+  "node-boilerplate": {
+    "calls": {}
+  },
+  "node-couchdb-api": {
+    "calls": {}
+  },
+  "node-elasticsearch-api": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/node-elasticsearch-api/node-elasticsearch-api-0.0.1/package/lib"
+    }
+  },
+  "l3mon": {
+    "calls": {}
+  },
+  "node-engine": {
+    "calls": {}
+  },
+  "node-express-bootstrap3-template": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/node-express-bootstrap3-template/node-express-bootstrap3-template-0.0.1/package/lib"
+    }
+  },
+  "node-foursquare": {
+    "calls": {
+      "addColors": 1
+    }
+  },
+  "node-foursquare-plaid": {
+    "calls": {
+      "addColors": 1
+    }
+  },
+  "node-oyster": {
+    "calls": {}
+  },
+  "node-rendezvous": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/node-rendezvous/node-rendezvous-0.1.0/package/lib"
+    }
+  },
+  "node-rest-api": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/node-rest-api/node-rest-api-0.0.1/package/lib"
+    }
+  },
+  "node-shift8": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/node-shift8/node-shift8-0.0.4/package/lib"
+    }
+  },
+  "node-twitchtv": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/node-twitchtv/node-twitchtv-0.0.4/package/lib"
+    }
+  },
+  "node-tagger": {
+    "calls": {}
+  },
+  "node-utils": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/node-utils/node-utils-0.0.2/package/lib"
+    }
+  },
+  "node-web-modules": {
+    "calls": {}
+  },
+  "nodebb-plugin-aliyun-oss": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/nodebb-plugin-aliyun-oss/nodebb-plugin-aliyun-oss-0.1.4/package/lib"
+    }
+  },
+  "nodebb-plugin-dbsearch": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/nodebb-plugin-dbsearch/nodebb-plugin-dbsearch-0.0.9/package/lib"
+    }
+  },
+  "nodebb-plugin-finder": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/nodebb-plugin-finder/nodebb-plugin-finder-0.0.5/package/lib"
+    }
+  },
+  "nodebb-plugin-imgur": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/nodebb-plugin-imgur/nodebb-plugin-imgur-0.0.14/package/lib"
+    }
+  },
+  "nodecap": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/nodecap/nodecap-0.1.3/package/lib"
+    }
+  },
+  "nodecover": {
+    "calls": {
+      "debug": 3
+    }
+  },
+  "nodeframe": {
+    "calls": {}
+  },
+  "nodegame-server": {
+    "calls": {}
+  },
+  "nodehttp": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/nodehttp/nodehttp-0.1.7/package/lib"
+    }
+  },
+  "nodejitsu-client": {
+    "calls": {}
+  },
+  "lytup": {
+    "calls": {}
+  },
+  "mylocker": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/mylocker/mylocker-0.0.1/package/lib"
+    }
+  },
+  "nodemw": {
+    "calls": {}
+  },
+  "noder.io": {
+    "calls": {}
+  },
+  "nogql": {
+    "calls": {}
+  },
+  "nodejs-intro": {
+    "calls": {
+      "info": 6
+    }
+  },
+  "nopar": {
+    "calls": {
+      "info": 31,
+      "error": 6,
+      "warn": 1,
+      "add": 1
+    }
+  },
+  "nosqlited": {
+    "calls": {}
+  },
+  "notifymode-client": {
+    "calls": {}
+  },
+  "npm-pkg-top": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/npm-pkg-top/npm-pkg-top-1.0.0/package/lib"
+    }
+  },
+  "nwitch": {
+    "calls": {}
+  },
+  "nqueued": {
+    "calls": {}
+  },
+  "oatos.utils": {
+    "calls": {}
+  },
+  "obicallerid": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/obicallerid/obicallerid-0.1.7/package/lib"
+    }
+  },
+  "octolog": {
+    "calls": {}
+  },
+  "ogov-api": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/ogov-api/ogov-api-0.1.0/package/lib"
+    }
+  },
+  "omnibot": {
+    "calls": {}
+  },
+  "openstack-storage": {
+    "calls": {}
+  },
+  "opfserver": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/opfserver/opfserver-0.1.6/package/lib"
+    }
+  },
+  "opfplatform": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/opfplatform/opfplatform-0.1.1/package/lib"
+    }
+  },
+  "oracle-api": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/oracle-api/oracle-api-0.0.4/package/lib"
+    }
+  },
+  "ortoo-analytics": {
+    "calls": {}
+  },
+  "ospi": {
+    "calls": {}
+  },
+  "owfs": {
+    "calls": {
+      "error": 1
+    }
+  },
+  "pantry": {
+    "calls": {}
+  },
+  "parallel-wget": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/parallel-wget/parallel-wget-0.1.0/package/lib"
+    }
+  },
+  "node-watchdog": {
+    "calls": {}
+  },
+  "parse-server": {
+    "calls": {}
+  },
+  "partyroom": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/partyroom/partyroom-0.0.4/package/lib"
+    }
+  },
+  "particles-prereq": {
+    "calls": {}
+  },
+  "pbsaudiosprite": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/pbsaudiosprite/pbsaudiosprite-0.2.9/package/lib"
+    }
+  },
+  "pasties-validator-web": {
+    "calls": {
+      "add": 1,
+      "remove": 1
+    }
+  },
+  "pdfer-job-collector": {
+    "calls": {}
+  },
+  "pdfer-job-pusher": {
+    "calls": {}
+  },
+  "pdfer-jobs": {
+    "calls": {}
+  },
+  "pepper": {
+    "calls": {}
+  },
+  "pdfer-api": {
+    "calls": {}
+  },
+  "personal-assistant": {
+    "calls": {}
+  },
+  "pg2json": {
+    "calls": {
+      "cli": 1,
+      "clear": 1,
+      "info": 6,
+      "data": 2,
+      "warn": 2,
+      "error": 1
+    }
+  },
+  "pgrest": {
+    "calls": {}
+  },
+  "pgsql-api": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/pgsql-api/pgsql-api-0.0.11/package/lib"
+    }
+  },
+  "pibot": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/pibot/pibot-0.1.0/package/lib"
+    }
+  },
+  "norq": {
+    "calls": {}
+  },
+  "plata": {
+    "calls": {}
+  },
+  "platform-ng": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/platform-ng/platform-ng-0.2.3/package/lib"
+    }
+  },
+  "pm2-web": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/pm2-web/pm2-web-1.7.4/package/lib"
+    }
+  },
+  "police": {
+    "calls": {
+      "silly": 2,
+      "warn": 1,
+      "info": 5
+    }
+  },
+  "pololu-maestro": {
+    "calls": {
+      "error": 10,
+      "info": 10,
+      "debug": 5,
+      "warn": 5
+    }
+  },
+  "pololu-maestro-ioboard": {
+    "calls": {
+      "debug": 5
+    }
+  },
+  "ponyfoo-log": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/ponyfoo-log/ponyfoo-log-1.0.0/package/lib"
+    }
+  },
+  "prefer": {
+    "calls": {}
+  },
+  "prefer-cli": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/prefer-cli/prefer-cli-0.1.6/package/lib"
+    }
+  },
+  "primus-logger": {
+    "calls": {}
+  },
+  "perfectapi": {
+    "calls": {}
+  },
+  "prompt": {
+    "calls": {}
+  },
+  "project-cartero": {
+    "calls": {}
+  },
+  "proxydev": {
+    "calls": {}
+  },
+  "proxy-aca": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/proxy-aca/proxy-aca-0.0.3/package/lib"
+    }
+  },
+  "pull-list": {
+    "calls": {
+      "log": 3,
+      "error": 2,
+      "info": 1
+    }
+  },
+  "mupee": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/mupee/mupee-3.0.0/package/lib"
+    }
+  },
+  "puntopagos": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/puntopagos/puntopagos-0.0.2/package/lib"
+    }
+  },
+  "ql.io-app": {
+    "calls": {}
+  },
+  "qilin": {
+    "calls": {}
+  },
+  "ql.io-engine": {
+    "calls": {}
+  },
+  "ql.io-console": {
+    "calls": {}
+  },
+  "pushd": {
+    "calls": {}
+  },
+  "ql.io-mem-cache-local": {
+    "calls": {}
+  },
+  "quilter": {
+    "calls": {
+      "info": 8
+    }
+  },
+  "quill-composer": {
+    "calls": {}
+  },
+  "rackspace-openstack": {
+    "calls": {
+      "addColors": 1
+    }
+  },
+  "radedit": {
+    "calls": {}
+  },
+  "radiodan": {
+    "calls": {}
+  },
+  "radiodan-client": {
+    "calls": {}
+  },
+  "rbn-base": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/rbn-base/rbn-base-0.0.5/package/lib"
+    }
+  },
+  "rbn-pi": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/rbn-pi/rbn-pi-0.0.8/package/lib"
+    }
+  },
+  "recuest": {
+    "calls": {}
+  },
+  "redis-api": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/redis-api/redis-api-0.0.5/package/lib"
+    }
+  },
+  "reconstruct-o-matic": {
+    "calls": {}
+  },
+  "redis-proxy": {
+    "calls": {}
+  },
+  "redis-rememberme": {
+    "calls": {}
+  },
+  "redis-futon": {
+    "calls": {}
+  },
+  "remotecontrol.js": {
+    "calls": {}
+  },
+  "raynos-testem": {
+    "calls": {
+      "error": 1,
+      "info": 2
+    }
+  },
+  "redsmin": {
+    "calls": {}
+  },
+  "require-namespace": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/require-namespace/require-namespace-0.1.1/package/lib"
+    }
+  },
+  "require-analyzer": {
+    "calls": {}
+  },
+  "reso-api-oauth2-server": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/reso-api-oauth2-server/reso-api-oauth2-server-0.1.1/package/lib"
+    }
+  },
+  "resourced": {
+    "calls": {
+      "info": 6,
+      "error": 3
+    }
+  },
+  "resourceserver": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/resourceserver/resourceserver-1.0.2/package/lib"
+    }
+  },
+  "repocop": {
+    "calls": {}
+  },
+  "respirator": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/respirator/respirator-0.0.2/package/lib"
+    }
+  },
+  "rest-confidence": {
+    "calls": {
+      "error": 1,
+      "info": 5
+    }
+  },
+  "restjs-api": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/restjs-api/restjs-api-0.1.5/package/lib"
+    }
+  },
+  "rfremoteserver": {
+    "calls": {
+      "remove": 1,
+      "info": 7
+    }
+  },
+  "rolling-file-transport": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/rolling-file-transport/rolling-file-transport-1.0.0/package/lib"
+    }
+  },
+  "roadmap": {
+    "calls": {}
+  },
+  "route-analytics": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/route-analytics/route-analytics-0.0.2/package/lib"
+    }
+  },
+  "rufio": {
+    "calls": {}
+  },
+  "rox": {
+    "calls": {
+      "info": 4,
+      "error": 7
+    }
+  },
+  "ruthless": {
+    "calls": {}
+  },
+  "s3cp": {
+    "calls": {}
+  },
+  "salmonjs": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/salmonjs/salmonjs-0.4.1/package/lib"
+    }
+  },
+  "salad": {
+    "calls": {}
+  },
+  "salsify": {
+    "calls": {}
+  },
+  "sails": {
+    "calls": {}
+  },
+  "sap-api": {
+    "calls": {}
+  },
+  "scale": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/scale/scale-0.0.7/package/lib"
+    }
+  },
+  "scarab": {
+    "calls": {}
+  },
+  "scarlet-winston": {
+    "calls": {
+      "extend": 1
+    }
+  },
+  "pimatic": {
+    "calls": {}
+  },
+  "schema-org": {
+    "calls": {}
+  },
+  "scraped-parse": {
+    "calls": {}
+  },
+  "scream-js": {
+    "calls": {
+      "cli": 1,
+      "error": 11,
+      "warn": 3,
+      "info": 6
+    }
+  },
+  "scrimmage": {
+    "calls": {
+      "info": 6
+    }
+  },
+  "otagai": {
+    "calls": {}
+  },
+  "shawty": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/shawty/shawty-0.0.2/package/lib"
+    }
+  },
+  "shellyjs": {
+    "calls": {
+      "remove": 1,
+      "setLevels": 1,
+      "addColors": 1,
+      "log": 1
+    }
+  },
+  "shuss": {
+    "calls": {}
+  },
+  "simple-git-child": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/simple-git-child/simple-git-child-0.0.1/package/lib"
+    }
+  },
+  "simple-proxies": {
+    "calls": {}
+  },
+  "skinny-bone-logger": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/skinny-bone-logger/skinny-bone-logger-0.1.0/package/lib"
+    }
+  },
+  "sky-plus-hd": {
+    "calls": {}
+  },
+  "smart-router": {
+    "calls": {}
+  },
+  "soap-api": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/soap-api/soap-api-0.2.1/package/lib"
+    }
+  },
+  "socket-express": {
+    "calls": {}
+  },
+  "sockethub": {
+    "calls": {}
+  },
+  "socketproxy": {
+    "calls": {}
+  },
+  "sockii": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/sockii/sockii-0.9.15/package/lib"
+    }
+  },
+  "solenoid": {
+    "calls": {}
+  },
+  "soundsprite": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/soundsprite/soundsprite-0.2.7/package/lib"
+    }
+  },
+  "spas": {
+    "calls": {}
+  },
+  "spec-master": {
+    "calls": {}
+  },
+  "spidey": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/spidey/spidey-0.2.2/package/lib"
+    }
+  },
+  "sqlcdcmanager": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/sqlcdcmanager/sqlcdcmanager-0.0.1/package/lib"
+    }
+  },
+  "squid": {
+    "calls": {}
+  },
+  "srv": {
+    "calls": {}
+  },
+  "ssh-control": {
+    "calls": {}
+  },
+  "sshpwordtest": {
+    "calls": {}
+  },
+  "ssihttpserver": {
+    "calls": {
+      "error": 2,
+      "info": 5,
+      "warn": 4
+    }
+  },
+  "stalk-it": {
+    "calls": {}
+  },
+  "stampy": {
+    "calls": {}
+  },
+  "starch": {
+    "calls": {}
+  },
+  "starcount-common": {
+    "calls": {
+      "add": 2
+    }
+  },
+  "static-plus": {
+    "calls": {}
+  },
+  "steam-chat-bot": {
+    "calls": {
+      "warn": 3,
+      "info": 25,
+      "error": 4
+    }
+  },
+  "streammachine": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/streammachine/streammachine-0.3.2/package/lib"
+    }
+  },
+  "strider": {
+    "calls": {}
+  },
+  "styliner": {
+    "calls": {
+      "verbose": 4,
+      "error": 2
+    }
+  },
+  "swiss-deploy-knife": {
+    "calls": {}
+  },
+  "symfio-contrib-winston": {
+    "calls": {}
+  },
+  "t411-api": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/t411-api/t411-api-0.0.1-dev/package/lib"
+    }
+  },
+  "taas-server": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/taas-server/taas-server-0.4.0/package/lib"
+    }
+  },
+  "tagged-console-target": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/tagged-console-target/tagged-console-target-1.0.5/package/lib"
+    }
+  },
+  "tapas": {
+    "calls": {}
+  },
+  "tapchat": {
+    "calls": {}
+  },
+  "tapline": {
+    "calls": {}
+  },
+  "tdp-glob-file-copier": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/tdp-glob-file-copier/tdp-glob-file-copier-0.1.2-alpha/package/lib"
+    }
+  },
+  "tdp-simple-app-installer": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/tdp-simple-app-installer/tdp-simple-app-installer-0.2.1-beta/package/lib"
+    }
+  },
+  "telegraph": {
+    "calls": {}
+  },
+  "terresoft.server.chat": {
+    "calls": {}
+  },
+  "testee": {
+    "calls": {}
+  },
+  "testresources": {
+    "calls": {
+      "info": 6,
+      "error": 2
+    }
+  },
+  "the-conductor": {
+    "calls": {
+      "log": 4
+    }
+  },
+  "this-blog": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/this-blog/this-blog-0.2.0/package/lib"
+    }
+  },
+  "thunkjs": {
+    "calls": {}
+  },
+  "thyme": {
+    "calls": {}
+  },
+  "ti-inspector": {
+    "calls": {}
+  },
+  "timbits": {
+    "calls": {}
+  },
+  "titanium": {
+    "calls": {
+      "addColors": 1
+    }
+  },
+  "sensebase": {
+    "calls": {}
+  },
+  "tock": {
+    "calls": {}
+  },
+  "tomahawk": {
+    "calls": {}
+  },
+  "tonic": {
+    "calls": {}
+  },
+  "scenic2": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/scenic2/scenic2-2.0.5/package/lib"
+    }
+  },
+  "tourist": {
+    "calls": {}
+  },
+  "transit-im": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/transit-im/transit-im-0.1.3/package/lib"
+    }
+  },
+  "trello-cli": {
+    "calls": {
+      "addColors": 1
+    }
+  },
+  "tsunami-server": {
+    "calls": {}
+  },
+  "tsunami-worker": {
+    "calls": {}
+  },
+  "turbocharger": {
+    "calls": {}
+  },
+  "saucier": {
+    "calls": {}
+  },
+  "turk50": {
+    "calls": {}
+  },
+  "turret": {
+    "calls": {}
+  },
+  "turted": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/turted/turted-0.0.9/package/lib"
+    }
+  },
+  "turtle": {
+    "calls": {}
+  },
+  "twilight": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/twilight/twilight-0.3.10/package/lib"
+    }
+  },
+  "twitter-mocker": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/twitter-mocker/twitter-mocker-0.1.0/package/lib"
+    }
+  },
+  "totoro-test": {
+    "calls": {
+      "addColors": 1
+    }
+  },
+  "ukraine": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/ukraine/ukraine-0.14.5/package/lib"
+    }
+  },
+  "umm": {
+    "calls": {
+      "cli": 2,
+      "help": 1,
+      "error": 19,
+      "warn": 4,
+      "info": 13
+    }
+  },
+  "union-option-set": {
+    "calls": {}
+  },
+  "upbeat-server": {
+    "calls": {}
+  },
+  "urza": {
+    "calls": {}
+  },
+  "utilbox": {
+    "calls": {}
+  },
+  "upbeat": {
+    "calls": {}
+  },
+  "valet": {
+    "calls": {}
+  },
+  "ungit": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/ungit/ungit-0.8.0/package/lib"
+    }
+  },
+  "saucelauncher": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/saucelauncher/saucelauncher-0.0.4/package/lib"
+    }
+  },
+  "vlogger": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/vlogger/vlogger-0.0.2/package/lib"
+    }
+  },
+  "vision-core": {
+    "calls": {
+      "add": 1
+    }
+  },
+  "vwebsocket": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/vwebsocket/vwebsocket-0.0.1/package/lib"
+    }
+  },
+  "waigo": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/waigo/waigo-1.1.2/package/lib"
+    }
+  },
+  "walter": {
+    "calls": {
+      "remove": 3,
+      "add": 6,
+      "info": 6,
+      "error": 2
+    }
+  },
+  "vanity-server": {
+    "calls": {}
+  },
+  "wasp-worker": {
+    "calls": {
+      "info": 5
+    }
+  },
+  "wasp-web": {
+    "calls": {
+      "info": 5
+    }
+  },
+  "venus": {
+    "calls": {
+      "addColors": 1
+    }
+  },
+  "websocket-bench": {
+    "calls": {}
+  },
+  "wigos": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/wigos/wigos-0.0.2/package/lib"
+    }
+  },
+  "winston-amon": {
+    "calls": {}
+  },
+  "winston-amqp": {
+    "calls": {}
+  },
+  "watai": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/watai/watai-0.6.2-alpha.4/package/lib"
+    }
+  },
+  "winston-chill": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/winston-chill/winston-chill-0.0.3/package/lib"
+    }
+  },
+  "winston-crashlog": {
+    "calls": {
+      "clone": 1
+    }
+  },
+  "winston-email": {
+    "calls": {}
+  },
+  "winston-filerotatedate": {
+    "calls": {}
+  },
+  "winston-cassandra": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/winston-cassandra/winston-cassandra-0.1.1/package/lib"
+    }
+  },
+  "winston-gelfling": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/winston-gelfling/winston-gelfling-0.0.2/package/lib"
+    }
+  },
+  "winston-hbase": {
+    "calls": {}
+  },
+  "winston-growl": {
+    "calls": {}
+  },
+  "winston-logger": {
+    "calls": {
+      "addColors": 1
+    }
+  },
+  "winston-logio": {
+    "calls": {
+      "clone": 1
+    }
+  },
+  "winston-logio-zzs": {
+    "calls": {
+      "clone": 1
+    }
+  },
+  "winston-logstash-udp": {
+    "calls": {
+      "clone": 1
+    }
+  },
+  "website-template": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/website-template/website-template-0.0.2/package/lib"
+    }
+  },
+  "winston-mixlib-log": {
+    "calls": {}
+  },
+  "winston-mongoose": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/winston-mongoose/winston-mongoose-0.0.2-beta/package/lib"
+    }
+  },
+  "winston-notification-center": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/winston-notification-center/winston-notification-center-0.1.1/package/lib"
+    }
+  },
+  "winston-newrelic": {
+    "calls": {}
+  },
+  "winston-nssocket": {
+    "calls": {}
+  },
+  "winston-posix-syslog": {
+    "calls": {}
+  },
+  "winston-postmark": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/winston-postmark/winston-postmark-0.0.1/package/lib"
+    }
+  },
+  "winston-pushover": {
+    "calls": {}
+  },
+  "winston-ravendb": {
+    "calls": {}
+  },
+  "winston-riemann-transport": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/winston-riemann-transport/winston-riemann-transport-0.0.3/package/lib"
+    }
+  },
+  "winston-request-logger": {
+    "calls": {}
+  },
+  "winston-s3": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/winston-s3/winston-s3-0.1.0/package/lib"
+    }
+  },
+  "winston-ses": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/winston-ses/winston-ses-0.0.4/package/lib"
+    }
+  },
+  "winston-sherlock": {
+    "calls": {}
+  },
+  "winston-sns-iam": {
+    "calls": {}
+  },
+  "winston-slack": {
+    "calls": {}
+  },
+  "winston-spy": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/winston-spy/winston-spy-0.1.2/package/lib"
+    }
+  },
+  "winston-sqlserver": {
+    "calls": {}
+  },
+  "winston-stderr": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/winston-stderr/winston-stderr-0.0.3/package/lib"
+    }
+  },
+  "winston-statsd": {
+    "calls": {}
+  },
+  "winston-syslog-ain2": {
+    "calls": {}
+  },
+  "winston-waterline": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/winston-waterline/winston-waterline-0.0.3/package/lib"
+    }
+  },
+  "winston-wrapper": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/winston-wrapper/winston-wrapper-1.0.1/package/lib"
+    }
+  },
+  "winston-windows": {
+    "calls": {}
+  },
+  "winston-ws-transport": {
+    "calls": {}
+  },
+  "winston-zmq": {
+    "calls": {}
+  },
+  "winstond": {
+    "calls": {}
+  },
+  "winstoon": {
+    "calls": {}
+  },
+  "wombat": {
+    "calls": {}
+  },
+  "workdaysperweek": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/workdaysperweek/workdaysperweek-1.0.2/package/lib"
+    }
+  },
+  "wp-util": {
+    "calls": {}
+  },
+  "x-log": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/x-log/x-log-0.0.6/package/lib"
+    }
+  },
+  "wintersmith": {
+    "calls": {}
+  },
+  "xmpp-server": {
+    "calls": {}
+  },
+  "xmpp-ftw-demo": {
+    "calls": {}
+  },
+  "xmx": {
+    "calls": {}
+  },
+  "xqnode-logger": {
+    "calls": {}
+  },
+  "yadisk": {
+    "calls": {}
+  },
+  "xi4n": {
+    "calls": {}
+  },
+  "yamlirc": {
+    "calls": {}
+  },
+  "yammer-rest-api-client": {
+    "calls": {
+      "debug": 2,
+      "error": 1
+    }
+  },
+  "ybuild": {
+    "calls": {}
+  },
+  "yui-benchmark": {
+    "calls": {}
+  },
+  "xipframe": {
+    "calls": {
+      "query": 1
+    }
+  },
+  "zeddemore": {
+    "calls": {}
+  },
+  "zkhatchery": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/zkhatchery/zkhatchery-0.0.0/package/lib"
+    }
+  },
+  "znetstar-hermes": {
+    "calls": {}
+  },
+  "zlogd": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/zlogd/zlogd-0.2.1/package/lib"
+    }
+  },
+  "xtuple": {
+    "calls": {}
+  },
+  "yode-server": {
+    "error": {
+      "errno": 34,
+      "code": "ENOENT",
+      "path": "/Users/charlie/Git/indexzero/npm-pipeline/tmp/yode-server/yode-server-0.2.4/package/lib"
+    }
+  },
+  "titanium-code-processor": {
+    "calls": {}
+  }
+}
