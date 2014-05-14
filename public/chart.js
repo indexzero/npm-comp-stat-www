@@ -203,7 +203,7 @@ function codependencyGraph(codeps) {
   //
   container.append('h3')
     .text(codeps.type + ': '
-      + codeps.lattice.total.subset + ' of ' + codeps.lattice.total.absolute)
+      + codeps.lattice.total.subset + ' of ' + codeps.lattice.total.absolute);
 }
 
 function groupedBar(name) {
@@ -218,20 +218,21 @@ function groupedBar(name) {
       .range([height, 0]);
 
   var color = d3.scale.ordinal()
-      .range(['#3e9cad', '#a3d7e1']);
+      .range(['#2078ee','#8bd6fe']);
 
   var xAxis = d3.svg.axis()
       .scale(x0)
       .orient('top')
       .outerTickSize(0);
 
-  var svg = d3.select('#methods')
+  var container = d3.select('#methods')
   .append('article')
   .append('svg')
       .attr('width', width + margin.left + margin.right)
       .attr('height', height + margin.top + margin.bottom)
     .append('g')
-      .attr('transform', 'translate(' + margin.left + ',' + (margin.top * 2) + ')');
+      .attr('id', 'bar-graph')
+      .attr('transform', 'translate(' + margin.left + ',' + (margin.top * 1.5) + ')');
 
   function methods(dataset) {
     return Object.keys(dataset.absolute.call)
@@ -270,12 +271,12 @@ function groupedBar(name) {
     x1.domain(categories).rangeRoundBands([0, x0.rangeBand()]);
     y.domain([0, d3.max(data, function(d) { return d3.max(d.cat, function(d) { return d.value; }); })]);
 
-    svg.append('g')
+    container.append('g')
         .attr('class', 'label')
         .attr('transform', 'translate(0,0)')
         .call(xAxis);
 
-    var method = svg.selectAll('.method')
+    var method = container.selectAll('.method')
         .data(data)
       .enter().append('g')
         .attr('class', 'g')
@@ -290,12 +291,12 @@ function groupedBar(name) {
         .attr('height', function(d) { return height - y(d.value); })
         .style('fill', function(d) { return color(d.name); });
 
-    var legend = svg.selectAll('.legend')
+    var legend = container.selectAll('.legend')
         .data(categories.slice().reverse())
       .enter().append('g')
         .attr('class', 'legend')
         .attr('transform', function(d, i) {
-          return 'translate(0,' + (height - (margin.top * 3) - i * 20) + ')';
+          return 'translate(0,' + (height - (margin.top * 5) - i * 20) + ')';
         });
 
     legend.append('rect')
@@ -326,3 +327,39 @@ d3.json('json/codeps/' + packageName + '.json', function(error, display) {
 });
 // Use package name to create bar graph
 groupedBar(packageName);
+
+function startIntro(){
+  var intro = introJs();
+  intro.setOptions({
+    steps: [
+    {
+      intro: 'Welcome to com(STAT)^2. Some information should totally go here about what this does'
+    },
+    {
+      element: '#package-name',
+      intro: 'The graphs on this page present a statistical analysis for this node package.',
+      position: 'right'
+    },
+    {
+      element: '#dependencies',
+      intro: 'This chord diagram shows ' + packageName + '\'s dependencies',
+      position: 'right'
+    },
+    {
+      element: '#devDependencies',
+      intro: 'This one shows ' + packageName + '\'s developer dependencies.',
+      position: 'left'
+    },
+    {
+      intro: 'Mouse over a chord to see some useful information about the dependency.',
+      position: 'top'
+    },
+    {
+      element: '#methods h3',
+      intro: 'Quickly see the most used methods of ' + packageName + '.',
+      position: 'bottom'
+    }
+    ]
+  });
+  intro.start();
+}

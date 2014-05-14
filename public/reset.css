@@ -41,10 +41,6 @@ canvas, details, summary, figcaption {
   vertical-align: baseline;
 }
 
-body {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-}
-
 a, abbr, acronym, address, article, aside, b, bdo, blockquote, button, caption,
 cite, command, dd, del, details, dfn, div, dl, dt, em, fieldset, figcaption,
 figure, footer, form, h1, h2, h3, h4, h5, h6, header, hgroup, i, input, ins,
@@ -54,11 +50,6 @@ textarea, tfoot, th, thead, time, tr, tt, u, ul, var, wbr {
   font-size: 1em;
   font-style: normal;
   vertical-align: baseline;
-}
-
-h1, h2, h3, h4, h5, h6 {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-weight: normal;
 }
 
 em {
@@ -84,7 +75,6 @@ blockquote:before, blockquote:after, q:before, q:after {
 }
 
 a, a:link, a:active, a:hover {
-  color: inherit;
   font-size: 100%;
   margin: 0;
   padding: 0;

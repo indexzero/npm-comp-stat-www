@@ -12,10 +12,13 @@ svg {
   overflow-y: visible;
 }
 
+hr {
+  margin: 4em;
+}
+
 h1 {
+  display: inline-block;
   clear: both;
-  margin: 0.6em 0 0.1em;
-  padding-bottom: 1.25em;
   font-weight: 300;
   font-size: 4em;
 }
@@ -24,10 +27,19 @@ h1 span {
   font-weight: 800;
 }
 
+h2 {
+  clear: both;
+  text-align: center;
+  font-size: 3em;
+  font-weight: 800;
+  margin-bottom: 1em;
+}
+
 h3 {
   margin-top: 30px;
   text-align: center;
   font-size: 2em;
+  font-weight: 300;
 }
 
 h4 {
@@ -36,6 +48,7 @@ h4 {
 }
 
 small {
+  display: inline-block;
   float: right;
   margin-top: 10px;
   color: #999;
@@ -87,6 +100,7 @@ select {
 #codependencies article {
   float: left;
   width: 50%;
+  padding-bottom: 5em;
 }
 
 #tooltip {
@@ -137,4 +151,45 @@ text {
   stroke: #000;
   stroke-width: 0.5;
   fill: none;
+}
+
+.help {
+  color: #aaa;
+  font-size: 0.5em;
+}
+
+.help:hover {
+  color: #1a234c;
+  opacity: 1;
+}
+
+.my-tool-tip {
+  font-size: 13px;
+}
+
+nav {
+  font-size: 1.5em;
+}
+
+a {
+  color: #31459b;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #1a234c;
+}
+
+nav ul {
+  list-style: none;
+}
+
+nav ul > li {
+  display: inline;
+  margin: 0;
+  padding: 0;
+}
+
+li a {
+  color: #0080ff;
 }
