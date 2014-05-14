@@ -342,12 +342,12 @@ document.getElementById('help').onclick = function(){
     },
     {
       element: '#dependencies',
-      intro: 'This chord diagram shows the ten modules with the most codependencies with ' + packageName,
+      intro: 'This chord diagram shows the ten modules having the most codependencies with ' + packageName,
       position: 'right'
     },
     {
       element: '#devDependencies',
-      intro: 'This one shows the ten modules with the most developer codependencies with' + packageName,
+      intro: 'This one shows the ten modules having the most developer codependencies with' + packageName,
       position: 'left'
     },
     {
