@@ -333,25 +333,25 @@ document.getElementById('help').onclick = function(){
   intro.setOptions({
     steps: [
     {
-      intro: 'Welcome to com(STAT)^2. Some information should totally go here about what this does'
+      intro: 'Welcome to com(STAT)^2. This system presents comprehensive static analysis information for a specified node package'
     },
     {
       element: '#package-name',
-      intro: 'The graphs on this page present a statistical analysis for this node package.',
+      intro: 'The graphs on this page pertain to this node package.',
       position: 'right'
     },
     {
       element: '#dependencies',
-      intro: 'This chord diagram shows ' + packageName + '\'s dependencies',
+      intro: 'This chord diagram shows the ten modules with the most codependencies with ' + packageName,
       position: 'right'
     },
     {
       element: '#devDependencies',
-      intro: 'This one shows ' + packageName + '\'s developer dependencies.',
+      intro: 'This one shows the ten modules with the most developer codependencies with' + packageName,
       position: 'left'
     },
     {
-      intro: 'Mouse over a chord to see some useful information about the dependency.',
+      intro: 'Mouse over a chord to see some useful information regarding the modules that depend on a pair of codependencies.',
       position: 'top'
     },
     {
