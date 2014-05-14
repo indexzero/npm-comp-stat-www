@@ -5,7 +5,7 @@
 // naive parsing method.
 //
 function querystring() {
-  return location.search.substring(1).split("&")
+  return location.search.substring(1).split('&')
     .reduce(function (params, value) {
       parts = value.split('=');
       params[parts[0]] = parts[1];
@@ -32,9 +32,8 @@ function codependencyGraph(codeps) {
       pkg         = codeps.name,
       totals;
 
-  // var fill = d3.scale.category10();
-  var colorbrewer = ['rgb(139,214,254)','rgb(32,120,238)','rgb(123,250,130)','rgb(51,160,44)','rgb(251,160,206)','rgb(227,26,28)','rgb(252,233,61)','rgb(255,127,0)','rgb(202,178,230)','rgb(106,61,154)'];
-  var fill = d3.scale.ordinal().range(colorbrewer);
+  var colors = ['rgb(139,214,254)','rgb(32,120,238)','rgb(123,250,130)','rgb(51,160,44)','rgb(251,160,206)','rgb(227,26,28)','rgb(252,233,61)','rgb(255,127,0)','rgb(202,178,230)','rgb(106,61,154)'];
+  var fill = d3.scale.ordinal().range(colors);
 
   var fmt = {
     percent: d3.format('.2%'),
@@ -56,20 +55,20 @@ function codependencyGraph(codeps) {
       .attr('id', codeps.type);
 
   var svg = container
-    .append("svg")
-      .attr("width", width)
-      .attr("height", height)
-    .append("svg:g")
-      .attr("id", "circle")
-      .attr("transform", "translate(" + ((width / 2) + (width / 20)) + "," + height / 2 + ")");
+    .append('svg')
+      .attr('width', width)
+      .attr('height', height)
+    .append('svg:g')
+      .attr('id', 'circle')
+      .attr('transform', 'translate(' + ((width / 2) + (width / 20)) + ',' + height / 2 + ')');
 
-  svg.append("circle")
-    .attr("r", innerRadius + 20);
+  svg.append('circle')
+    .attr('r', innerRadius + 20);
 
-  var graph = svg.append("g")
-    .attr("transform", "translate(" + outerRadius * 1.25 + "," + outerRadius + ")");
+  var graph = svg.append('g')
+    .attr('transform', 'translate(' + outerRadius * 1.25 + ',' + outerRadius + ')');
 
-  document.getElementById("package-name").innerHTML = pkg;
+  document.getElementById('package-name').innerHTML = pkg;
   chord.matrix(matrix);
 
   //
@@ -123,49 +122,25 @@ function codependencyGraph(codeps) {
   // Mouse enter handler for individual chords
   //
   function cMouseover(d, i) {
-    d3.select("#tooltip")
-      .style("visibility", "visible")
+    d3.select('#tooltip')
+      .style('visibility', 'visible')
       .html(chordTip(d, i))
-      .style("top", function () { return (d3.event.pageY - 100)+"px"})
-      .style("left", function () { return (d3.event.pageX - 100)+"px";})
+      .style('top', function () { return (d3.event.pageY - 100)+'px'})
+      .style('left', function () { return (d3.event.pageX - 100)+'px';})
   };
-
-  // //
-  // // ### function groupTip (d, i)
-  // // Returns the text for the group tooltip
-  // //
-  // function groupTip (d) {
-  //   var name    = names[d.index],
-  //       source  = d.index,
-  //       headers = [],
-  //       rows    = [];
-
-  //   return [
-  //     '<table>',
-  //     '  <thead>',
-  //     '    <tr>',
-  //   ].concat(headers).concat([
-  //     '    </tr>',
-  //     '  </thead>',
-  //     '  <tbody>'
-  //   ]).concat(rows).concat([
-  //     '  </tbody>',
-  //     '</table>'
-  //   ]).join('\n');
-  // }
 
   //
   // ### function cMouseover (d, i)
   // Mouse enter handler for individual groups (i.e. packages)
   //
   function gMouseover(d, i) {
-    // d3.select("#tooltip")
-    //   .style("visibility", "visible")
+    // d3.select('#tooltip')
+    //   .style('visibility', 'visible')
     //   .html(groupTip(d))
-    //   .style("top", function () { return (d3.event.pageY - 80)+"px"})
-    //   .style("left", function () { return (d3.event.pageX - 130)+"px";});
+    //   .style('top', function () { return (d3.event.pageY - 80)+'px'})
+    //   .style('left', function () { return (d3.event.pageX - 130)+'px';});
 
-    chordPaths.classed("fade", function(p) {
+    chordPaths.classed('fade', function(p) {
       return p.source.index != i
           && p.target.index != i;
     });
@@ -175,54 +150,53 @@ function codependencyGraph(codeps) {
   // Hides the tooltip overlay
   //
   function hide() {
-    d3.select("#tooltip").style("visibility", "hidden");
+    d3.select('#tooltip').style('visibility', 'hidden');
   }
 
   //
   // Create arcs representing the codependent
   // package relationships
   //
-  var g = svg.selectAll("g.group")
+  var g = svg.selectAll('g.group')
       .data(chord.groups())
-    .enter().append("svg:g")
-      .attr("class", "group")
-      .style("fill", function(d) { return fill(d.index); })
-      .style("stroke", function(d) { d3.rgb(fill(d.index)).darker() })
-      .on("mouseover", gMouseover);
-      // .on("mouseout", hide);
+    .enter().append('svg:g')
+      .attr('class', 'group')
+      .style('fill', function(d) { return fill(d.index); })
+      .style('stroke', function(d) { d3.rgb(fill(d.index)).darker() })
+      .on('mouseover', gMouseover);
 
-  g.append("svg:path")
-    .style("fill", function(d) { return fill(d.index); })
-    .attr("d", arc);
+  g.append('svg:path')
+    .style('fill', function(d) { return fill(d.index); })
+    .attr('d', arc);
 
   //
   // Set outer package labels
   //
-  g.append("svg:text")
+  g.append('svg:text')
     .each(function(d) { d.angle = (d.startAngle + d.endAngle) / 2; })
-      .attr("dy", ".35em")
-      .attr("text-anchor", function(d) { return d.angle > Math.PI ? "end" : null; })
-      .attr("transform", function(d) {
-        return "rotate(" + (d.angle * 180 / Math.PI - 90) + ")"
-          + "translate(" + (innerRadius + 26) + ")"
-          + (d.angle > Math.PI ? "rotate(180)" : "");
+      .attr('dy', '.35em')
+      .attr('text-anchor', function(d) { return d.angle > Math.PI ? 'end' : null; })
+      .attr('transform', function(d) {
+        return 'rotate(' + (d.angle * 180 / Math.PI - 90) + ')'
+          + 'translate(' + (innerRadius + 26) + ')'
+          + (d.angle > Math.PI ? 'rotate(180)' : '');
       })
       .text(function(d) { return names[d.index]; });
 
   //
   // Create chords
   //
-  var chordPaths = svg.selectAll("path.chord")
+  var chordPaths = svg.selectAll('path.chord')
       .data(chord.chords())
-    .enter().append("svg:path")
-      .attr("class", "chord")
-      .style("stroke", function(d) { return d3.rgb(fill(d.source.index)).darker(); })
-      .style("fill", function(d) { return fill(d.source.index); })
-      .attr("d", d3.svg.chord().radius(innerRadius))
-      .on("mouseover", cMouseover)
-      .on("mouseout", hide);
+    .enter().append('svg:path')
+      .attr('class', 'chord')
+      .style('stroke', function(d) { return d3.rgb(fill(d.source.index)).darker(); })
+      .style('fill', function(d) { return fill(d.source.index); })
+      .attr('d', d3.svg.chord().radius(innerRadius))
+      .on('mouseover', cMouseover)
+      .on('mouseout', hide);
 
-  d3.select(window.frameElement).style("height", outerRadius * 2 + "px");
+  d3.select(window.frameElement).style('height', outerRadius * 2 + 'px');
 
   //
   // Append the <h3> representing the subtitle of this diagram.
@@ -232,14 +206,123 @@ function codependencyGraph(codeps) {
       + codeps.lattice.total.subset + ' of ' + codeps.lattice.total.absolute)
 }
 
-//
+function groupedBar(name) {
+  var margin = {top: 20, right: 20, bottom: 30, left: 40},
+      width  = (window.innerWidth * 0.9)  - margin.left - margin.right,
+      height = (width / 2) - margin.top - margin.bottom;
+
+  var x0 = d3.scale.ordinal()
+      .rangeRoundBands([0, width], .1);
+  var x1 = d3.scale.ordinal();
+  var y = d3.scale.linear()
+      .range([height, 0]);
+
+  var color = d3.scale.ordinal()
+      .range(['#3e9cad', '#a3d7e1']);
+
+  var xAxis = d3.svg.axis()
+      .scale(x0)
+      .orient('top')
+      .outerTickSize(0);
+
+  var svg = d3.select('#methods')
+  .append('article')
+  .append('svg')
+      .attr('width', width + margin.left + margin.right)
+      .attr('height', height + margin.top + margin.bottom)
+    .append('g')
+      .attr('transform', 'translate(' + margin.left + ',' + (margin.top * 2) + ')');
+
+  function methods(dataset) {
+    return Object.keys(dataset.absolute.call)
+      .filter(function (name) {
+        return name !== 'total';
+      })
+      .sort(function (lname, rname) {
+        var lval = dataset.absolute.call[lname],
+            rval = dataset.absolute.call[rname];
+
+        if (lval === rval) { return 0; }
+        return lval < rval ? 1 : -1;
+      })
+      .slice(0, 10);
+  }
+
+  function normalizeData(dataset, methods) {
+    return methods.map(function (name) {
+      return {
+        name: name,
+        absolute: dataset.absolute.call[name],
+        weighted: dataset.weighted.call[name]
+      };
+    });
+  }
+
+  d3.json('json/comp-stat/' + name + '.json', function(error, data) {
+    var categories = ['absolute', 'weighted'];
+    data = normalizeData(data, methods(data));
+
+    data.forEach(function(d) {
+      d.cat = categories.map(function(name) { return {name: name, value: +d[name]}; });
+    });
+
+    x0.domain(data.map(function(d) { return d.name; }));
+    x1.domain(categories).rangeRoundBands([0, x0.rangeBand()]);
+    y.domain([0, d3.max(data, function(d) { return d3.max(d.cat, function(d) { return d.value; }); })]);
+
+    svg.append('g')
+        .attr('class', 'label')
+        .attr('transform', 'translate(0,0)')
+        .call(xAxis);
+
+    var method = svg.selectAll('.method')
+        .data(data)
+      .enter().append('g')
+        .attr('class', 'g')
+        .attr('transform', function(d) { return 'translate(' + x0(d.name) + ',0)'; });
+
+    method.selectAll('rect')
+        .data(function(d) { return d.cat; })
+      .enter().append('rect')
+        .attr('width', x1.rangeBand())
+        .attr('x', function(d) { return x1(d.name); })
+        .attr('y', 0)
+        .attr('height', function(d) { return height - y(d.value); })
+        .style('fill', function(d) { return color(d.name); });
+
+    var legend = svg.selectAll('.legend')
+        .data(categories.slice().reverse())
+      .enter().append('g')
+        .attr('class', 'legend')
+        .attr('transform', function(d, i) {
+          return 'translate(0,' + (height - (margin.top * 3) - i * 20) + ')';
+        });
+
+    legend.append('rect')
+        .attr('x', width - 18)
+        .attr('width', 18)
+        .attr('height', 18)
+        .style('fill', color);
+
+    legend.append('text')
+        .attr('x', width - 24)
+        .attr('y', 9)
+        .attr('dy', '.35em')
+        .style('text-anchor', 'end')
+        .text(function(d) { return d; });
+  });
+}
+
+
 // Download the JSON itself and calculate the relative widths
 // based on the totals.
 //
-d3.json("json/codeps/" + packageName + '.json', function(error, display) {
+d3.json('json/codeps/' + packageName + '.json', function(error, display) {
   ['dependencies', 'devDependencies'].forEach(function (type) {
     display[type].name = packageName;
     display[type].type = type;
     codependencyGraph(display[type]);
   });
 });
+// Use package name to create bar graph
+groupedBar(packageName);

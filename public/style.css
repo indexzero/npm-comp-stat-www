@@ -125,12 +125,16 @@ path.chord {
 #circle:hover path.fade {
   fill-opacity: .1;
   stroke-opacity: 0;
-  /*display: none;*/
 }
 
 text {
-  font-weight: 300;
   font-size: 1.2em;
   stroke: none;
   fill: #000;
+}
+
+.domain {
+  stroke: #000;
+  stroke-width: 0.5;
+  fill: none;
 }
