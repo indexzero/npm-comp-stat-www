@@ -83,7 +83,7 @@ function codependencyGraph(codeps) {
 
   //
   // ### function chordTip (d, i)
-  // Returns the text for the chord tooltip
+  // Returns the text for the chord infotip
   //
   function chordTip (d, i) {
     var source = d.source.index,
@@ -122,7 +122,7 @@ function codependencyGraph(codeps) {
   // Mouse enter handler for individual chords
   //
   function cMouseover(d, i) {
-    d3.select('#tooltip')
+    d3.select('#infotip')
       .style('visibility', 'visible')
       .html(chordTip(d, i))
       .style('top', function () { return (d3.event.pageY - 100)+'px'})
@@ -134,7 +134,7 @@ function codependencyGraph(codeps) {
   // Mouse enter handler for individual groups (i.e. packages)
   //
   function gMouseover(d, i) {
-    // d3.select('#tooltip')
+    // d3.select('#infotip')
     //   .style('visibility', 'visible')
     //   .html(groupTip(d))
     //   .style('top', function () { return (d3.event.pageY - 80)+'px'})
@@ -147,10 +147,10 @@ function codependencyGraph(codeps) {
   }
 
   //
-  // Hides the tooltip overlay
+  // Hides the infotip overlay
   //
   function hide() {
-    d3.select('#tooltip').style('visibility', 'hidden');
+    d3.select('#infotip').style('visibility', 'hidden');
   }
 
   //
@@ -328,7 +328,7 @@ d3.json('json/codeps/' + packageName + '.json', function(error, display) {
 // Use package name to create bar graph
 groupedBar(packageName);
 
-function startIntro(){
+document.getElementById('help').onclick = function(){
   var intro = introJs();
   intro.setOptions({
     steps: [
@@ -355,11 +355,14 @@ function startIntro(){
       position: 'top'
     },
     {
-      element: '#methods h3',
+      element: '#bargraph',
       intro: 'Quickly see the most used methods of ' + packageName + '.',
       position: 'bottom'
     }
-    ]
+    ],
+    showStepNumbers: false,
+    showBullets: false,
+    scrollToElement: true
   });
   intro.start();
 }

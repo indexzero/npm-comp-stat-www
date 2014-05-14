@@ -30,7 +30,7 @@ h1 span {
 h2 {
   clear: both;
   text-align: center;
-  font-size: 3em;
+  font-size: 2.5em;
   font-weight: 800;
   margin-bottom: 1em;
 }
@@ -103,7 +103,7 @@ select {
   padding-bottom: 5em;
 }
 
-#tooltip {
+#infotip {
   position: absolute;
   z-index: 10;
   visibility: hidden;
@@ -117,7 +117,7 @@ select {
   pointer-events: none;
 }
 
-#tooltip td {
+#infotip td {
   padding: 0 5px;
 }
 
@@ -153,18 +153,14 @@ text {
   fill: none;
 }
 
-.help {
+#help {
   color: #aaa;
   font-size: 0.5em;
 }
 
-.help:hover {
+#help:hover {
   color: #1a234c;
   opacity: 1;
-}
-
-.my-tool-tip {
-  font-size: 13px;
 }
 
 nav {

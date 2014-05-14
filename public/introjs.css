@@ -72,7 +72,7 @@
   line-height: 20px;
   border: 3px solid white;
   border-radius: 50%;
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff3019', endColorstr='#cf0404', GradientType=0); /* IE6-9 */ 
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff3019', endColorstr='#cf0404', GradientType=0); /* IE6-9 */
   filter: progid:DXImageTransform.Microsoft.Shadow(direction=135, strength=2, color=ff0000); /* IE10 text shadows */
   box-shadow: 0 2px 5px rgba(0,0,0,.4);
 }
@@ -114,6 +114,7 @@
 }
 
 .introjs-tooltip {
+  font-size: 16px;
   position: absolute;
   padding: 10px;
   background-color: white;
@@ -132,20 +133,19 @@
   text-align: right;
 }
 
-/* 
- Buttons style by http://nicolasgallagher.com/lab/css3-github-buttons/ 
+/*
+ Buttons style by http://nicolasgallagher.com/lab/css3-github-buttons/
  Changed by Afshin Mehrabani
 */
 .introjs-button {
   position: relative;
   overflow: visible;
   display: inline-block;
-  padding: 0.3em 0.8em;
+  padding: 0.2em;
   border: 1px solid #d4d4d4;
-  margin: 0;
+  margin: 8px;
   text-decoration: none;
-  text-shadow: 1px 1px 0 #fff;
-  font: 11px/normal sans-serif;
+  font: 14px/normal sans-serif;
   color: #333;
   white-space: nowrap;
   cursor: pointer;
@@ -170,7 +170,7 @@
 
 .introjs-button:hover {
   border-color: #bcbcbc;
-  text-decoration: none; 
+  text-decoration: none;
   box-shadow: 0px 1px 1px #e3e3e3;
 }
 
