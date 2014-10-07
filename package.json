@@ -1,16 +1,19 @@
 {
-  "name": "comp-stat-www",
+  "name": "npm-comp-stat-www",
   "version": "1.3.0",
   "subdomain": "codeps",
   "description": "The web server portion of com(stat)^2",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node bin/server"
   },
   "author": "Charlie Robbins <charlie.robbins@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "http-server": "^0.6.1"
+  },
+  "devDependencies": {
+    "npm-codependencies": "~1.0.0",
+    "npm-static-stats": "~1.0.0"
   },
   "engines": {
     "node": "0.10.x"
