@@ -27,8 +27,9 @@ mv "$PACKAGE_NAME.json" public/json/static-stats/
 open http://localhost:8080/?p=$PACKAGE_NAME
 ```
 
-##### Author: [Charlie Robbins](https://github.com/indexzero)
 ##### License: MIT
+##### Author: [Charlie Robbins](https://github.com/indexzero)
+##### Contributors: [Jane Kim](https://github.com/janecakemaster)
 
 [codependencies]: https://github.com/indexzero/npm-codepedencies
 [static-stats]: https://github.com/indexzero/npm-static-stats

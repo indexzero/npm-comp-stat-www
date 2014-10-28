@@ -7,6 +7,9 @@
     "start": "node bin/server"
   },
   "author": "Charlie Robbins <charlie.robbins@gmail.com>",
+  "contributors": [
+    "Jane Kim <jane@janekim.me>"
+  ],
   "license": "MIT",
   "dependencies": {
     "http-server": "^0.6.1"
